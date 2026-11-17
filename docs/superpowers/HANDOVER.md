@@ -1,7 +1,7 @@
 # Handover: white-label openGym
 
 The one file that says where the project stands. Update it in the same commit as the work.
-Plan: [plans/2026-11-17-white-label-implementation-plan.md](plans/2026-11-17-white-label-implementation-plan.md).
+Plan: [white-label-implementation-plan.md](white-label-implementation-plan.md).
 Design: [specs/2026-11-17-white-label-coach-gym-design.md](specs/2026-11-17-white-label-coach-gym-design.md).
 
 ## Now
