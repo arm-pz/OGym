@@ -1,7 +1,7 @@
 # White-label implementation plan (detailed)
 
-Design: [../specs/2026-11-17-white-label-coach-gym-design.md](specs/2026-11-17-white-label-coach-gym-design.md).
-Live state: [../HANDOVER.md](HANDOVER.md).
+Design: [specs/2026-11-17-white-label-coach-gym-design.md](specs/2026-11-17-white-label-coach-gym-design.md).
+Live state: [HANDOVER.md](HANDOVER.md).
 
 This plan is written so any person or any AI model can pick it up cold. It does not depend on
 earlier conversations. Each work item has an id (P1.3), names its files, gives the contract to
